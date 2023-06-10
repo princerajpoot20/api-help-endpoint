@@ -2,17 +2,17 @@
 Description for /help
 
 # /config
-## /context
+Description for /config
+
+## /config/context
 Description for /config/context
 
 # /generate
-## /fromTemplate
+Description for /generate
+
+## /generate/fromTemplate
 Description for /generate/fromTemplate
-## /models
+
+## /generate/models
 Description for /generate/models
 
-# /start
-## /studio
-Description for /start/studio
-
-# ... and so on
